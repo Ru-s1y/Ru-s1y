@@ -1,20 +1,20 @@
-### Hi there 👋
 
-<!--
-**Ru-s1y/Ru-s1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/Ru-s1y/Ru-s1y/">
+    <img src="https://komarev.com/ghpvc/?username=Ru-s1y" alt="Ru-s1y" />
+  </a>
+  <a href="https://github.com/Ru-s1y">
+    <img height="20" src="https://img.shields.io/github/followers/Ru-s1y?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Ru-s1y">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Ru-s1y/posts.svg" />
+  </a>
+  <//qiita.com/Ru-s1y">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Ru-s1y/contributions.svg" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ru-s1y&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ru-s1y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ru-s1y&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru-s1y&layout=compact" />
+</p>
