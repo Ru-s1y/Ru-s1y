@@ -1,10 +1,4 @@
 <p align="left">
-  <a href="https://github.com/Ru-s1y/Ru-s1y/">
-    <img src="https://komarev.com/ghpvc/?username=Ru-s1y" alt="Ru-s1y" />
-  </a>
-  <a href="https://github.com/Ru-s1y">
-    <img height="20" src="https://img.shields.io/github/followers/Ru-s1y?label=follow&logo=github&style=flat" />
-  </a>
   <a href="http://qiita.com/Ru-s1y">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Ru-s1y/posts.svg" />
   </a>
